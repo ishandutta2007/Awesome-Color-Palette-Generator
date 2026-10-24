@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Color-Palette-Generator/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Color-Palette-Generator?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Color-Palette-Generator/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Color-Palette-Generator?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Color-Palette-Generator/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Color-Palette-Generator?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Color-Palette-Generator/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" alt="License" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -56,48 +56,48 @@ The digital design and color tooling market is valued at approximately **$10.1B 
 
 ## 💻 Open-Source GitHub Projects
 
-Curated list of standout open-source repositories for procedural palette generation, WCAG contrast calculations, perceptual color spaces (OKLCH, HSLuv), and terminal theming—sorted in descending order by GitHub Stars.
+Curated list of standout open-source repositories for procedural palette generation, WCAG contrast calculations, perceptual color spaces (OKLCH, HSLuv), and terminal theming—sorted in descending order by GitHub_Stars.
 
-- **[chroma.js](https://github.com/gka/chroma.js)** [![GitHub Stars](https://img.shields.io/github/stars/gka/chroma.js?style=social&color=white)](https://github.com/gka/chroma.js/stargazers)  
+- **[chroma.js](https://github.com/gka/chroma.js)** [![GitHub_Stars](https://img.shields.io/github/stars/gka/chroma.js?style=social&color=white)](https://github.com/gka/chroma.js/stargazers)  
   **The ultimate JavaScript color manipulation library.** Powers countless web color pickers and generators. Supports color scale generation, Bezier interpolation, perceptual lightness correction, and conversions between RGB, HEX, HSL, LAB, LCH, and OKLCH color spaces.
 
-- **[pywal](https://github.com/dylanaraps/pywal)** [![GitHub Stars](https://img.shields.io/github/stars/dylanaraps/pywal?style=social&color=white)](https://github.com/dylanaraps/pywal/stargazers)  
+- **[pywal](https://github.com/dylanaraps/pywal)** [![GitHub_Stars](https://img.shields.io/github/stars/dylanaraps/pywal?style=social&color=white)](https://github.com/dylanaraps/pywal/stargazers)  
   **The legend of terminal palette generation.** Generates full 16-color schemes dynamically on the fly from wallpapers or images, exporting themes across terminals, window managers, GTK themes, and system interfaces.
 
-- **[leonardo](https://github.com/adobe/leonardo)** [![GitHub Stars](https://img.shields.io/github/stars/adobe/leonardo?style=social&color=white)](https://github.com/adobe/leonardo/stargazers)  
+- **[leonardo](https://github.com/adobe/leonardo)** [![GitHub_Stars](https://img.shields.io/github/stars/adobe/leonardo?style=social&color=white)](https://github.com/adobe/leonardo/stargazers)  
   **Adobe's contrast-based color system generator.** An open-source tool for creating adaptive, accessible UI color palettes based on targeted WCAG contrast ratios and perceptual color spaces.
 
-- **[tints.dev](https://github.com/SimeonGriggs/tints.dev)** [![GitHub Stars](https://img.shields.io/github/stars/SimeonGriggs/tints.dev?style=social&color=white)](https://github.com/SimeonGriggs/tints.dev/stargazers)  
+- **[tints.dev](https://github.com/SimeonGriggs/tints.dev)** [![GitHub_Stars](https://img.shields.io/github/stars/SimeonGriggs/tints.dev?style=social&color=white)](https://github.com/SimeonGriggs/tints.dev/stargazers)  
   **11-color palette generator and API for Tailwind CSS.** Generates perfectly weighted 50–900 tint palettes with smooth contrast curves and instant Tailwind configuration exports.
 
-- **[poline](https://github.com/meodai/poline)** [![GitHub Stars](https://img.shields.io/github/stars/meodai/poline?style=social&color=white)](https://github.com/meodai/poline/stargazers)  
+- **[poline](https://github.com/meodai/poline)** [![GitHub_Stars](https://img.shields.io/github/stars/meodai/poline?style=social&color=white)](https://github.com/meodai/poline/stargazers)  
   **Esoteric palette generator micro-library.** Generates enigmatic, harmonized palettes by interpolating HSL colors across geometries in cartesian space.
 
-- **[hellwal](https://github.com/danihek/hellwal)** [![GitHub Stars](https://img.shields.io/github/stars/danihek/hellwal?style=social&color=white)](https://github.com/danihek/hellwal/stargazers)  
+- **[hellwal](https://github.com/danihek/hellwal)** [![GitHub_Stars](https://img.shields.io/github/stars/danihek/hellwal?style=social&color=white)](https://github.com/danihek/hellwal/stargazers)  
   **Blazingly fast C palette engine.** A Pywal-like color scheme extractor and template engine rewritten in pure C for near-instant execution on modern Linux setups.
 
-- **[palx](https://github.com/jxnblk/palx)** [![GitHub Stars](https://img.shields.io/github/stars/jxnblk/palx?style=social&color=white)](https://github.com/jxnblk/palx/stargazers)  
+- **[palx](https://github.com/jxnblk/palx)** [![GitHub_Stars](https://img.shields.io/github/stars/jxnblk/palx?style=social&color=white)](https://github.com/jxnblk/palx/stargazers)  
   **Automatic algorithmic UI color palette generator.** Feed Palx a single brand hex code and it algorithmically derives a complete spectrum of matching, harmonious tints and shades for web UIs.
 
-- **[Rickrack](https://github.com/eigenmiao/Rickrack)** [![GitHub Stars](https://img.shields.io/github/stars/eigenmiao/Rickrack?style=social&color=white)](https://github.com/eigenmiao/Rickrack/stargazers)  
+- **[Rickrack](https://github.com/eigenmiao/Rickrack)** [![GitHub_Stars](https://img.shields.io/github/stars/eigenmiao/Rickrack?style=social&color=white)](https://github.com/eigenmiao/Rickrack/stargazers)  
   **Harmonious Python-based color synthesizer.** Provides rich desktop and programmatic generation tools for multi-harmony color schemes, color wheels, and color theory formulas.
 
-- **[lutgen-rs](https://github.com/ozwaldorf/lutgen-rs)** [![GitHub Stars](https://img.shields.io/github/stars/ozwaldorf/lutgen-rs?style=social&color=white)](https://github.com/ozwaldorf/lutgen-rs/stargazers)  
+- **[lutgen-rs](https://github.com/ozwaldorf/lutgen-rs)** [![GitHub_Stars](https://img.shields.io/github/stars/ozwaldorf/lutgen-rs?style=social&color=white)](https://github.com/ozwaldorf/lutgen-rs/stargazers)  
   **High-performance LUT generator in Rust.** Interpolates arbitrary and popular color palettes (Catppuccin, Gruvbox, Nord, Tokyo Night) and transforms images and wallpapers to match those schemes.
 
-- **[Color Hunter](https://github.com/aprogramq/color-hunter)** [![GitHub Stars](https://img.shields.io/github/stars/aprogramq/color-hunter?style=social&color=white)](https://github.com/aprogramq/color-hunter/stargazers)  
+- **[Color Hunter](https://github.com/aprogramq/color-hunter)** [![GitHub_Stars](https://img.shields.io/github/stars/aprogramq/color-hunter?style=social&color=white)](https://github.com/aprogramq/color-hunter/stargazers)  
   **Terminal-native palette generator in Rust.** Generates harmonious palettes using OKLCH and OKHSL with sRGB gamut mapping. Features Vim keybindings, 100-palette history, and clipboard export to CSS, SCSS, Tailwind, and SVG.
 
-- **[Coolors Clone (evergreenx)](https://github.com/evergreenx/coollors)** [![GitHub Stars](https://img.shields.io/github/stars/evergreenx/coollors?style=social&color=white)](https://github.com/evergreenx/coollors/stargazers)  
+- **[Coolors Clone (evergreenx)](https://github.com/evergreenx/coollors)** [![GitHub_Stars](https://img.shields.io/github/stars/evergreenx/coollors?style=social&color=white)](https://github.com/evergreenx/coollors/stargazers)  
   **Full-stack Coolors clone.** Built with Next.js, Supabase, Shadcn UI, Tailwind CSS, and Clerk Auth. Includes database-backed palette saving and export features.
 
-- **[Brand Color Palette Generator](https://github.com/bivex/brand-color-palette-generator)** [![GitHub Stars](https://img.shields.io/github/stars/bivex/brand-color-palette-generator?style=social&color=white)](https://github.com/bivex/brand-color-palette-generator/stargazers)  
+- **[Brand Color Palette Generator](https://github.com/bivex/brand-color-palette-generator)** [![GitHub_Stars](https://img.shields.io/github/stars/bivex/brand-color-palette-generator?style=social&color=white)](https://github.com/bivex/brand-color-palette-generator/stargazers)  
   **WCAG-compliant brand generator.** Built with Bun, Semantic UI, and Chroma.js. Delivers 13 harmonic schemes, 16 aesthetic brand presets, live UI previews, and Colormind AI integration.
 
-- **[Coolors Clone (nisargkavi)](https://github.com/nisargkavi/coolors-clone)** [![GitHub Stars](https://img.shields.io/github/stars/nisargkavi/coolors-clone?style=social&color=white)](https://github.com/nisargkavi/coolors-clone/stargazers)  
+- **[Coolors Clone (nisargkavi)](https://github.com/nisargkavi/coolors-clone)** [![GitHub_Stars](https://img.shields.io/github/stars/nisargkavi/coolors-clone?style=social&color=white)](https://github.com/nisargkavi/coolors-clone/stargazers)  
   **Next.js practice implementation.** A clean starter implementation exploring frontend color generation, lockable swatches, and scheme variations in Next.js.
 
-- **[Color Magic](https://github.com/moeezahmad-tech/Color-Magic)** [![GitHub Stars](https://img.shields.io/github/stars/moeezahmad-tech/Color-Magic?style=social&color=white)](https://github.com/moeezahmad-tech/Color-Magic/stargazers)  
+- **[Color Magic](https://github.com/moeezahmad-tech/Color-Magic)** [![GitHub_Stars](https://img.shields.io/github/stars/moeezahmad-tech/Color-Magic?style=social&color=white)](https://github.com/moeezahmad-tech/Color-Magic/stargazers)  
   **PHP-based palette explorer.** Features 150+ curated palettes, image extraction, hex-to-name lookup, and gradient browsing built with PHP and Tailwind CSS.
 
 ---
@@ -109,7 +109,7 @@ Contributions make the open-source community thrive! Follow these steps to submi
 1. 🍴 **Fork the repo** to your own account.
 2. 🌿 **Create a branch**: `git checkout -b feat/add-new-palette-tool`
 3. 📝 **Add your entry** under the appropriate section following the existing table or list format.
-4. ✨ **Include**: Product/Repo name, live link, 1–2 sentence factual summary, pricing/free tier details (for SaaS) or GitHub star badge (for OSS).
+4. ✨ **Include**: Product/Repo name, live link, 1–2 sentence factual summary, pricing/free tier details (for SaaS) or GitHub Stars_Badge (for OSS).
 5. 🚀 **Submit a Pull Request** with a concise description of why this tool belongs here.
 
 ---
