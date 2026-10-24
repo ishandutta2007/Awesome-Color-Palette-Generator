@@ -1,48 +1,46 @@
-# Awesome-Color-Palette-Generator
+# 🎨 Awesome Color Palette Generator
 
-## Top Color Palette Generator Ecosystem
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Color Palette Generator Banner" width="100%" />
+</p>
 
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Color-Palette-Generator/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Color-Palette-Generator?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Color-Palette-Generator/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Color-Palette-Generator?style=social" alt="GitHub Forks" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Color-Palette-Generator/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" alt="License" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
+---
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
+## 🌟 Overview & Ecosystem
 
-*Focused on Color Theory Tools, AI Palette Generation & Self-Hosted Design Utilities*  
+Welcome to the definitive, curated directory of **Color Palette Generators**, **Color Theory Engines**, and **Design System Utilities**! Whether you are building brand guidelines, designing WCAG-accessible UI design systems in Figma, or seeking lightweight command-line color extractors for your terminal setup, this guide brings together top SaaS platforms alongside community-loved open-source projects.
 
-**Last updated: October 2026**
+> 🔍 **SEO Keywords**: *color palette generator, color scheme generator, color wheel, hex color picker, contrast checker, WCAG accessible colors, AI color generator, OKLCH palette generator, Tailwind CSS palette generator, terminal color schemes, design tokens.*
 
+---
 
+## 📑 Table of Contents
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Color Palette Generators**. These tools help designers and developers create harmonious color schemes—using color theory, AI, or curated collections—to build brand identities, UI systems, and visual designs with confidence.
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [☁️ SaaS / Hosted Platforms](#️-saas--hosted-platforms)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support](#-support)
+- [📈 Star History](#--star-history)
+- [⚠️ Disclaimer](#️-disclaimer)
 
+---
 
-
-**Examples** include Adobe Color, Coolors, Paletton, Color Hunt, Khroma, and the open-source leaders Color Hunter and Brand Color Palette Generator (the category leaders).
-
-
-
-**Open-source emphasis**: This section is heavily expanded with every major active project for self-hosting, avoiding subscription limits, and controlling the palette generation pipeline. The open-source landscape is anchored by **Color Hunter** (the Rust-based terminal palette generator with OKLCH perceptual color), **Brand Color Palette Generator** (the Bun-powered WCAG-compliant generator with Colormind AI integration), and **Coolors clones** (Next.js implementations for learning and self-hosting), with **Colormind's free API** providing AI generation for non-commercial use.
-
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
-
-## Sector Overview & Market Dynamics
+## 📊 Sector Overview & Market Dynamics
 
 The digital design and color tooling market is valued at approximately **$10.1B to $10.5B** globally (growing at ~9% CAGR as part of the broader creative software ecosystem). The sector exhibits a **moderately-to-highly concentrated, tiered structure**: massive enterprise ecosystems (Adobe, Canva) dominate broad design workflows through consolidated suites and aggressive AI integration, while specialized, lightweight palette generation remains fragmented across highly popular indie/micro-SaaS utilities and open-source web projects.
 
+---
 
-
-## SaaS/Hosted Platforms
+## ☁️ SaaS / Hosted Platforms
 
 | Product | Company Scale (Valuation / Revenue) | Description | Pricing | Free Tier Limit |
 | :--- | :--- | :--- | :--- | :--- |
@@ -54,90 +52,86 @@ The digital design and color tooling market is valued at approximately **$10.1B 
 | **[Khroma](https://www.khroma.co/)** | **Bootstrapped Indie / Private** (Independent AI side project by George Hastings) | AI color tool that learns your preferences and generates infinite palettes. | **$0/mo** (100% Free, no paid tier) | **Free forever plan**: Unlimited AI neural network training (50 color choices), infinite personalized palette generation, and unlimited library saves. |
 | **[Colormind](http://colormind.io/)** | **Bootstrapped Indie / Private** (Independent AI project by Jack Qiao) | Deep learning palette generator trained on photographs, movies, and art. | **$0/mo** (Free for web and personal API use; commercial API pricing via custom developer contact) | **Free forever plan**: Unlimited web palette generation with daily dataset rotation; REST API free for personal/non-commercial projects without account signup. |
 
-## Open-Source GitHub Projects
+---
 
+## 💻 Open-Source GitHub Projects
 
+Curated list of standout open-source repositories for procedural palette generation, WCAG contrast calculations, perceptual color spaces (OKLCH, HSLuv), and terminal theming—sorted in descending order by GitHub Stars.
+
+- **[chroma.js](https://github.com/gka/chroma.js)** [![GitHub Stars](https://img.shields.io/github/stars/gka/chroma.js?style=social&color=white)](https://github.com/gka/chroma.js/stargazers)  
+  **The ultimate JavaScript color manipulation library.** Powers countless web color pickers and generators. Supports color scale generation, Bezier interpolation, perceptual lightness correction, and conversions between RGB, HEX, HSL, LAB, LCH, and OKLCH color spaces.
+
+- **[pywal](https://github.com/dylanaraps/pywal)** [![GitHub Stars](https://img.shields.io/github/stars/dylanaraps/pywal?style=social&color=white)](https://github.com/dylanaraps/pywal/stargazers)  
+  **The legend of terminal palette generation.** Generates full 16-color schemes dynamically on the fly from wallpapers or images, exporting themes across terminals, window managers, GTK themes, and system interfaces.
+
+- **[leonardo](https://github.com/adobe/leonardo)** [![GitHub Stars](https://img.shields.io/github/stars/adobe/leonardo?style=social&color=white)](https://github.com/adobe/leonardo/stargazers)  
+  **Adobe's contrast-based color system generator.** An open-source tool for creating adaptive, accessible UI color palettes based on targeted WCAG contrast ratios and perceptual color spaces.
+
+- **[tints.dev](https://github.com/SimeonGriggs/tints.dev)** [![GitHub Stars](https://img.shields.io/github/stars/SimeonGriggs/tints.dev?style=social&color=white)](https://github.com/SimeonGriggs/tints.dev/stargazers)  
+  **11-color palette generator and API for Tailwind CSS.** Generates perfectly weighted 50–900 tint palettes with smooth contrast curves and instant Tailwind configuration exports.
+
+- **[poline](https://github.com/meodai/poline)** [![GitHub Stars](https://img.shields.io/github/stars/meodai/poline?style=social&color=white)](https://github.com/meodai/poline/stargazers)  
+  **Esoteric palette generator micro-library.** Generates enigmatic, harmonized palettes by interpolating HSL colors across geometries in cartesian space.
+
+- **[hellwal](https://github.com/danihek/hellwal)** [![GitHub Stars](https://img.shields.io/github/stars/danihek/hellwal?style=social&color=white)](https://github.com/danihek/hellwal/stargazers)  
+  **Blazingly fast C palette engine.** A Pywal-like color scheme extractor and template engine rewritten in pure C for near-instant execution on modern Linux setups.
+
+- **[palx](https://github.com/jxnblk/palx)** [![GitHub Stars](https://img.shields.io/github/stars/jxnblk/palx?style=social&color=white)](https://github.com/jxnblk/palx/stargazers)  
+  **Automatic algorithmic UI color palette generator.** Feed Palx a single brand hex code and it algorithmically derives a complete spectrum of matching, harmonious tints and shades for web UIs.
+
+- **[Rickrack](https://github.com/eigenmiao/Rickrack)** [![GitHub Stars](https://img.shields.io/github/stars/eigenmiao/Rickrack?style=social&color=white)](https://github.com/eigenmiao/Rickrack/stargazers)  
+  **Harmonious Python-based color synthesizer.** Provides rich desktop and programmatic generation tools for multi-harmony color schemes, color wheels, and color theory formulas.
+
+- **[lutgen-rs](https://github.com/ozwaldorf/lutgen-rs)** [![GitHub Stars](https://img.shields.io/github/stars/ozwaldorf/lutgen-rs?style=social&color=white)](https://github.com/ozwaldorf/lutgen-rs/stargazers)  
+  **High-performance LUT generator in Rust.** Interpolates arbitrary and popular color palettes (Catppuccin, Gruvbox, Nord, Tokyo Night) and transforms images and wallpapers to match those schemes.
 
 - **[Color Hunter](https://github.com/aprogramq/color-hunter)** [![GitHub Stars](https://img.shields.io/github/stars/aprogramq/color-hunter?style=social&color=white)](https://github.com/aprogramq/color-hunter/stargazers)  
-
-  **The terminal-native palette generator.** MIT licensed. **Six palette generators**: Color Hunter, complementary, analogous, triadic, split-complementary, and Coolors.co-style. **Perceptual color generation** using OKLCH and OKHSL with sRGB gamut mapping. **Features**: keyboard-driven workflow with Vim keys, palette history (100 palettes), clipboard export as CSS/SCSS/Tailwind/SVG/PNG, and HEX/RGB/HSL output with human-readable color names. **Platform**: Linux only (requires Rust 1.88+ and a True Color terminal) . Best for developers wanting a fast, keyboard-first palette generator that lives where they work.
-
-
-
-- **[Brand Color Palette Generator](https://github.com/bivex/brand-color-palette-generator)** [![GitHub Stars](https://img.shields.io/github/stars/bivex/brand-color-palette-generator?style=social&color=white)](https://github.com/bivex/brand-color-palette-generator/stargazers)  
-
-  **The WCAG-compliant brand palette generator.** Built with Bun, Semantic UI, and Chroma.js. **13 color generation schemes** including analogous, complementary, triadic, tetradic, and WCAG Accessible mode. **16 brand style presets** (Vibrant, Muted, Neon, Earthy, Tech, etc.). **Accessibility engine**: mathematically calibrated contrast ratios for AA (≥4.5:1) and AAA (≥7:1). **Colormind AI integration** with a local proxy to avoid CORS issues. **Real-world UI preview**: live component cards showing Primary Actions, Light Surfaces, and Dark Mode themes . Best for teams wanting a self-hosted generator that guarantees accessible color combinations.
-
-
-
-- **[Coolors Clone (nisargkavi)](https://github.com/nisargkavi/coolors-clone)** [![GitHub Stars](https://img.shields.io/github/stars/nisargkavi/coolors-clone?style=social&color=white)](https://github.com/nisargkavi/coolors-clone/stargazers)  
-
-  **The Next.js learning implementation.** A simplified Coolors clone built with Next.js. Offers color palette generation, exploration of different schemes, and saving preferred colors/palettes for future reference. **Status**: practice project for learning Next.js . Best for developers wanting a reference implementation to build upon or learn from.
-
-
+  **Terminal-native palette generator in Rust.** Generates harmonious palettes using OKLCH and OKHSL with sRGB gamut mapping. Features Vim keybindings, 100-palette history, and clipboard export to CSS, SCSS, Tailwind, and SVG.
 
 - **[Coolors Clone (evergreenx)](https://github.com/evergreenx/coollors)** [![GitHub Stars](https://img.shields.io/github/stars/evergreenx/coollors?style=social&color=white)](https://github.com/evergreenx/coollors/stargazers)  
+  **Full-stack Coolors clone.** Built with Next.js, Supabase, Shadcn UI, Tailwind CSS, and Clerk Auth. Includes database-backed palette saving and export features.
 
-  **The full-stack Coolors clone.** Built with Next.js, Supabase, Shadcn UI, Tailwind CSS, and Clerk Auth. **Features**: palette generation, saving to Supabase database, authentication, CRUD operations, and export as PNG/PDF/SVG . Best for developers wanting a production-pattern reference with auth and database integration.
+- **[Brand Color Palette Generator](https://github.com/bivex/brand-color-palette-generator)** [![GitHub Stars](https://img.shields.io/github/stars/bivex/brand-color-palette-generator?style=social&color=white)](https://github.com/bivex/brand-color-palette-generator/stargazers)  
+  **WCAG-compliant brand generator.** Built with Bun, Semantic UI, and Chroma.js. Delivers 13 harmonic schemes, 16 aesthetic brand presets, live UI previews, and Colormind AI integration.
 
-
+- **[Coolors Clone (nisargkavi)](https://github.com/nisargkavi/coolors-clone)** [![GitHub Stars](https://img.shields.io/github/stars/nisargkavi/coolors-clone?style=social&color=white)](https://github.com/nisargkavi/coolors-clone/stargazers)  
+  **Next.js practice implementation.** A clean starter implementation exploring frontend color generation, lockable swatches, and scheme variations in Next.js.
 
 - **[Color Magic](https://github.com/moeezahmad-tech/Color-Magic)** [![GitHub Stars](https://img.shields.io/github/stars/moeezahmad-tech/Color-Magic?style=social&color=white)](https://github.com/moeezahmad-tech/Color-Magic/stargazers)  
-
-  **The PHP-based palette explorer.** Features 150+ curated palettes, color theory generation, image-to-palette extraction, hex-to-name lookup, gradients, and favorites. **Tech stack**: PHP, Tailwind CSS, vanilla JavaScript. **Pages**: palette explorer, gradient browser, color name finder, image extraction, and brand color reference . Best for PHP developers wanting a self-hosted palette tool with broad utility features.
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **Rickrack** — Python-based harmonious color generator with 453 stars. Best for programmatic color generation in Python workflows.
-
-- **Chroma.js** — JavaScript color manipulation library underlying many generators. Best as the engine for custom palette applications.
-
-- **Colormind API** — Free REST API for personal/non-commercial use. Best for integrating AI palette generation into open-source projects without building a model from scratch .
-
-
-
-## How to Contribute
-
-
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- **Free tiers vary in usefulness**: Coolors is the most generous with **10 saved palettes, 1 project, and 5 favorites** on a free account , while Canva Free limits to **1 palette with 3 colors** . Paletton, Color Hunt, Khroma, and Colormind are genuinely free without account limits.
-
-- **AI palette generation is available free through Colormind**: the web generator is free, and the API is free for personal/non-commercial use—commercial applications require contacting the developer .
-
-- **Open-source generators are niche tools, not full platforms**: Color Hunter is terminal-only (Linux); Brand Color Palette Generator requires Bun and a self-hosted server; Coolors clones are learning projects rather than production-ready products. Match the tool to your workflow.
-
-- **Coolors Pro pricing is not publicly listed** in search results—verify current rates on the site before subscribing .
-
-
+  **PHP-based palette explorer.** Features 150+ curated palettes, image extraction, hex-to-name lookup, and gradient browsing built with PHP and Tailwind CSS.
 
 ---
 
+## 🤝 How to Contribute
 
+Contributions make the open-source community thrive! Follow these steps to submit a tool or project:
 
-**Made for designers, developers, and anyone building color systems with confidence.**  
+1. 🍴 **Fork the repo** to your own account.
+2. 🌿 **Create a branch**: `git checkout -b feat/add-new-palette-tool`
+3. 📝 **Add your entry** under the appropriate section following the existing table or list format.
+4. ✨ **Include**: Product/Repo name, live link, 1–2 sentence factual summary, pricing/free tier details (for SaaS) or GitHub star badge (for OSS).
+5. 🚀 **Submit a Pull Request** with a concise description of why this tool belongs here.
 
-Let's make color palette generation more open, accessible, and perceptually grounded.
+---
+
+## 💖 Support
+
+If you found this curated list helpful for choosing colors, building UI themes, or discovering new open-source projects, please consider supporting the project:
+
+- ⭐ **Star this repository** to help others discover it on GitHub!
+- 🍴 **Fork and share** it with fellow designers, developers, and creators.
+- ☕ **Buy me a coffee**: Support ongoing curation and maintenance via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Color-Palette-Generator&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Color-Palette-Generator&type=date&legend=top-left)
+
+---
+
+## ⚠️ Disclaimer
+
+- This repository is a **community-curated index** — entries do not imply direct endorsement.
+- **Free tiers vary in scope**: Coolors allows up to 10 saved palettes and 5 favorite colors on a free plan, while Canva limits free users to 1 palette of up to 3 colors. Tools like Paletton, Color Hunt, and Khroma remain entirely free.
+- **Always verify third-party pricing & API terms** on official websites before deploying tools in commercial production workflows.
