@@ -109,7 +109,7 @@ Contributions make the open-source community thrive! Follow these steps to submi
 1. 🍴 **Fork the repo** to your own account.
 2. 🌿 **Create a branch**: `git checkout -b feat/add-new-palette-tool`
 3. 📝 **Add your entry** under the appropriate section following the existing table or list format.
-4. ✨ **Include**: Product/Repo name, live link, 1–2 sentence factual summary, pricing/free tier details (for SaaS) or GitHub Stars_Badge (for OSS).
+4. ✨ **Include**: Product/Repo name, live link, 1–2 sentence factual summary, pricing/free tier details (for SaaS) or GitHub_Stars_Badge (for OSS).
 5. 🚀 **Submit a Pull Request** with a concise description of why this tool belongs here.
 
 ---
