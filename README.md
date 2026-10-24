@@ -30,39 +30,29 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
+
+## Sector Overview & Market Dynamics
+
+The digital design and color tooling market is valued at approximately **$10.1B to $10.5B** globally (growing at ~9% CAGR as part of the broader creative software ecosystem). The sector exhibits a **moderately-to-highly concentrated, tiered structure**: massive enterprise ecosystems (Adobe, Canva) dominate broad design workflows through consolidated suites and aggressive AI integration, while specialized, lightweight palette generation remains fragmented across highly popular indie/micro-SaaS utilities and open-source web projects.
 
 
 
 ## SaaS/Hosted Platforms
 
-
-
-| Product | Description | Pricing | Free Tier Limit |
-
-| :--- | :--- | :--- | :--- |
-
-| **[Coolors](https://coolors.co/)** | The most popular palette generator with AI, 10M+ schemes, and export tools. | **Pro subscription** (pricing not displayed in search results; described as a subscription plan to premium features) . | **Free account**: Save up to **10 palettes**, **1 project**, **1 collection**, **5 favorite colors**. Ads displayed. Pro removes ads and unlocks AI, unlimited saves, 10-color palettes, and advanced exports . |
-
-| **[Adobe Color](https://color.adobe.com/)** | Adobe's color wheel and palette tool integrated with Creative Cloud. | **Free** to use online. Saving to Brand Kit requires **Adobe Express Premium** . | **Free**: Create and export palettes online. Brand Kit saving is a premium feature . |
-
-| **[Paletton](https://paletton.com/)** | Classic color scheme designer using RYB color theory with vision simulation. | **Free** (ad-supported). | **Fully free**: All features including color blindness simulation, WCAG contrast checking, and exports (HTML, CSS, LESS, XML, PNG, ACO, GPL) . |
-
-| **[Color Hunt](https://www.colorhunt.co/)** | Curated collection of trending 4-color palettes, community-submitted. | **Free**. | **Fully free**: Browse, create, and submit palettes. No account required for browsing . |
-
-| **[Khroma](https://www.khroma.co/)** | AI color tool that learns your preferences and generates infinite palettes. | **Free** (no paid tier reported). | **Fully free**: Train the neural network, generate unlimited palettes, search, and save to an unlimited library . |
-
-| **[Colormind](http://colormind.io/)** | Deep learning palette generator trained on photographs, movies, and art. | **Free** for web use. **API**: free for personal/non-commercial; commercial use requires contact . | **Fully free**: Web generator with daily dataset rotation. API free for non-commercial use . |
-
-| **[Canva Color Palette Generator](https://www.canva.com/colors/color-palette-generator/)** | Palette extraction from uploaded images within Canva's ecosystem. | Included with **Canva Free** or **Canva Pro**. | **Canva Free**: **1 palette** with up to **3 colors** . More palettes require Pro/paid plans . |
-
-
+| Product | Company Scale (Valuation / Revenue) | Description | Pricing | Free Tier Limit |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Adobe Color](https://color.adobe.com/)** | **~$100B - $146B Market Cap** (~$23.8B - $26.0B Ann. Revenue) | Adobe's color wheel and palette tool integrated with Creative Cloud. | **$9.99/mo** (Adobe Express Premium individual tier; also bundled with CC paid plans) | **Free forever plan**: Unlimited online color wheel generation & CSS/XML export. (Saving themes to Brand Kit / CC Libraries requires 30-day free trial or Premium plan) |
+| **[Canva Color Palette Generator](https://www.canva.com/colors/color-palette-generator/)** | **~$32B - $42B Valuation** (~$3.5B - $4.0B ARR) | Palette extraction from uploaded images and color wheel generator within Canva's ecosystem. | **$15/mo** (or $120/yr billed annually for Canva Pro) | **Canva Free plan**: Extracts 1 palette with up to 4-5 dominant colors per upload; Brand Kit palette storage limited to 1 palette of up to 3 colors. (30-day free trial for Canva Pro) |
+| **[Coolors](https://coolors.co/)** | **~$1M - $3M ARR (Est.)** (Profitable solo bootstrapped micro-SaaS; 1.7M+ monthly users) | The most popular palette generator with AI, 10M+ schemes, and export tools. | **$5/mo** (or $3/mo billed annually at $36/yr for Coolors Pro) | **Free forever plan**: Save up to 10 palettes, 1 project, 1 collection, and 5 favorite colors; ad-supported; export limited to standard formats. (No trial required) |
+| **[Paletton](https://paletton.com/)** | **Bootstrapped Indie / Private** (Classic ad-supported utility, founded 2002) | Classic color scheme designer using RYB color theory with vision simulation. | **$0/mo** (100% Free, display ad supported) | **Free forever plan**: Unlimited access to all wheel schemes, contrast checks, vision simulations, and multi-format exports (HTML, CSS, LESS, XML, ACO). |
+| **[Color Hunt](https://www.colorhunt.co/)** | **Bootstrapped Indie / Private** (Curated side project with 1M+ monthly users) | Curated collection of trending 4-color palettes, community-submitted. | **$0/mo** (100% Free, community-driven) | **Free forever plan**: Unlimited browsing, searching, bookmarking, and custom palette submissions; no account or payment required. |
+| **[Khroma](https://www.khroma.co/)** | **Bootstrapped Indie / Private** (Independent AI side project by George Hastings) | AI color tool that learns your preferences and generates infinite palettes. | **$0/mo** (100% Free, no paid tier) | **Free forever plan**: Unlimited AI neural network training (50 color choices), infinite personalized palette generation, and unlimited library saves. |
+| **[Colormind](http://colormind.io/)** | **Bootstrapped Indie / Private** (Independent AI project by Jack Qiao) | Deep learning palette generator trained on photographs, movies, and art. | **$0/mo** (Free for web and personal API use; commercial API pricing via custom developer contact) | **Free forever plan**: Unlimited web palette generation with daily dataset rotation; REST API free for personal/non-commercial projects without account signup. |
 
 ## Open-Source GitHub Projects
 
